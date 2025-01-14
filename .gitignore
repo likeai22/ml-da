@@ -58,3 +58,7 @@ Thumbs.db
 /gb_intensive_ds/pdf/
 
 *.pdf
+/dir_crt.py
+/.env/
+/2_Supervised_learning/week 3/les/
+/2_Supervised_learning/week 4/les/
